@@ -37,7 +37,6 @@ int main()
     if (arebalanced(expression))
         cout<<"Balaneced ";
     else
-        cout<<"Not Balaneced ";
         cout<<"Not Balaneced new";
     return 0;
 }
