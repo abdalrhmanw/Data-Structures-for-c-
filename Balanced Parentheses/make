@@ -27,5 +27,6 @@ int main () {
     cout<<"the area"<<rect.area()<<endl;
     rectb =doplicate(rect);
     cout<<"the area"<<rectb.area()<<endl;
+		cout<<"go to sleep";
     return 0;
 }
